@@ -132,20 +132,7 @@ cd client
 npm run dev
 ```
 
----
 
-# 📸 Screenshots
-
-Add screenshots for:
-
-- Home Page
-- Dashboard
-- Resume Upload
-- AI Interview Screen
-- AI Feedback Report
-- Performance Dashboard
-
----
 
 # 🎯 Key Functionalities
 
