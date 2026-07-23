@@ -36,7 +36,7 @@ An AI-powered mock interview platform that helps users practice technical and HR
 
 ## AI
 - Gemini API / OpenAI API
-- LangChain (if used)
+  
 
 ## Authentication
 - JWT
